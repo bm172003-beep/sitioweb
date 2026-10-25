@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#120b08"/>
+  <rect x="40" y="40" width="1120" height="720" rx="28" fill="#24130d" stroke="#6d3b21" stroke-width="2"/>
+  <rect x="80" y="90" width="220" height="34" rx="17" fill="#ff8a3d"/>
+  <rect x="80" y="148" width="380" height="18" rx="9" fill="#9b6d4f"/>
+  <rect x="80" y="178" width="310" height="18" rx="9" fill="#9b6d4f"/>
+  <rect x="80" y="240" width="1040" height="220" rx="24" fill="#371b10" stroke="#8b4a22" stroke-width="2"/>
+  <rect x="120" y="280" width="180" height="120" rx="16" fill="#ff9e5d"/>
+  <rect x="340" y="285" width="260" height="24" rx="12" fill="#ffd1a8"/>
+  <rect x="340" y="325" width="220" height="18" rx="9" fill="#e2b58d"/>
+  <rect x="340" y="355" width="180" height="18" rx="9" fill="#e2b58d"/>
+  <rect x="760" y="265" width="250" height="160" rx="20" fill="#ff7b2c"/>
+  <circle cx="885" cy="345" r="60" fill="#fff4e8" opacity="0.95"/>
+  <rect x="80" y="520" width="320" height="150" rx="18" fill="#2d180f" stroke="#8b4a22" stroke-width="2"/>
+  <rect x="440" y="520" width="320" height="150" rx="18" fill="#2d180f" stroke="#8b4a22" stroke-width="2"/>
+  <rect x="800" y="520" width="320" height="150" rx="18" fill="#2d180f" stroke="#8b4a22" stroke-width="2"/>
+  <text x="600" y="730" text-anchor="middle" fill="#fff4e8" font-family="Arial, sans-serif" font-size="32" font-weight="700">SaaS Barbería</text>
+  <text x="600" y="764" text-anchor="middle" fill="#f3b67d" font-family="Arial, sans-serif" font-size="20">Agenda y reservas</text>
+</svg>
